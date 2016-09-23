@@ -1,19 +1,11 @@
 {
-	"name": "php-imap/php-imap",
+	"name": "attractgroup/php-imap",
 	"description": "PHP class to access mailbox by POP3/IMAP/NNTP using IMAP extension",
-	"keywords": [
-		"PHP",
-		"IMAP",
-		"mail"
-	],
-	"homepage": "https://github.com/barbushin/php-imap",
-	"license": "BSD 3-Clause",
 	"type": "library",
 	"authors": [
 		{
-			"name": "Sergey Barbushin",
-			"homepage": "http://linkedin.com/in/barbushin",
-			"email": "barbushin@gmail.com"
+			"name": "Alex Kim",
+			"email": "alex.kim@attractgroup.com"
 		}
 	],
 	"require": {
